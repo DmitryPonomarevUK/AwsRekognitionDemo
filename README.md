@@ -13,3 +13,10 @@ Prerequisites:
 
 
 Store images to index in C:\ImageDataBase folder (or modify DIR_WITH_FACE_IMAGES_PATH variable)
+
+To clone the repository:
+
+```
+git clone https://github.com/DmitryPonomarevUK/AwsRekognitionDemo.git
+
+```
